@@ -1,0 +1,240 @@
+Year,Country,Economic_Rank,Institutional_Rank,Quality_of_Life_Rank,Ease_of_Living_Rank,Sustainability_Rank
+1971,Slovenia,3,13,25,1,19
+1971,Poland,15,9,16,2,18
+1971,Lithuania,16,16,7,3,26
+1971,Curacao,5,2,59,5,78
+1971,Cuba,6,6,54,6,24
+1971,Belarus,59,7,13,7,7
+1971,Sweden,83,98,1,8,1
+1971,Iceland,62,3,10,9,41
+1971,Switzerland,69,20,2,10,67
+1971,Qatar,36,1,58,11,4
+1971,Puerto Rico,37,27,8,12,25
+1971,Europe & Central Asia (IDA & IBRD countries),9,18,41,12,64
+1971,Cyprus,4,45,51,14,87
+1971,Canada,28,96,3,15,40
+1971,United States,20,23,17,15,95
+1971,Ireland,91,12,6,16,30
+1971,Antigua and Barbuda,32,5,56,18,43
+1971,Bermuda,27,4,57,18,45
+1971,Belgium,22,29,18,19,85
+1971,Sint Maarten (Dutch part),94,28,4,20,12
+1971,New Zealand,150,24,12,21,3
+1971,Post-demographic dividend,155,10,10,21,20
+1971,North America,50,34,15,22,27
+1971,Euro area,9,94,37,23,51
+1971,Europe & Central Asia,9,19,61,24,49
+1971,Bulgaria,48,42,14,25,33
+1971,Croatia,7,49,52,26,71
+1971,Estonia,8,66,49,27,53
+1971,Hungary,114,22,19,28,6
+1971,Montenegro,23,102,33,29,13
+1971,Italy,34,76,26,30,10
+1971,Aruba,63,6,55,31,35
+1971,Denmark,108,67,3,32,15
+1971,Latvia,12,126,43,33,32
+1971,Austria,41,74,24,34,38
+1971,European Union,81,37,19,35,22
+1971,United Kingdom,151,103,9,36,2
+1971,OECD members,97,21,29,37,57
+1971,France,118,44,31,38,8
+1971,St. Martin (French part),137,15,40,39,34
+1971,Japan,123,79,21,40,9
+1971,Netherlands,103,59,23,40,42
+1971,Grenada,145,25,39,41,11
+1971,Barbados,58,82,44,42,29
+1971,Tajikistan,2,89,88,43,101
+1971,Greece,159,107,20,44,5
+1971,"Bahamas, The",54,26,60,45,46
+1971,High income,135,60,32,46,31
+1971,Finland,106,85,30,47,28
+1971,Malta,76,30,53,48,21
+1971,Norway,105,95,28,48,39
+1971,Lebanon,19,75,76,49,66
+1971,Singapore,87,53,48,50,23
+1971,Kuwait,31,32,68,51,63
+1971,Georgia,150,51,35,52,62
+1971,Israel,132,155,5,52,70
+1971,Trinidad and Tobago,149,86,38,52,16
+1971,Uruguay,169,83,27,53,14
+1971,Gibraltar,145,31,42,54,68
+1971,Channel Islands,166,90,22,56,48
+1971,North Macedonia,47,38,71,57,58
+1971,Spain,129,81,34,58,77
+1971,Romania,52,46,69,59,69
+1971,Germany,101,117,36,60,65
+1971,Armenia,60,56,70,61,59
+1971,Argentina,33,77,81,62,50
+1971,Luxembourg,102,121,47,64,52
+1971,Central Europe and the Baltics,166,58,50,65,47
+1971,Portugal,156,104,45,66,60
+1971,Samoa,30,48,90,67,75
+1971,Kosovo,26,72,66,67,103
+1971,Serbia,42,135,78,68,17
+1971,Brunei Darussalam,45,70,67,69,100
+1971,British Virgin Islands,46,57,73,70,102
+1971,Australia,159,108,46,71,79
+1971,South Africa,138,8,92,72,91
+1971,Ukraine,84,65,65,73,90
+1971,Jamaica,90,41,64,74,104
+1971,Caribbean small states,35,91,86,75,98
+1971,Tonga,147,61,72,76,88
+1971,St. Vincent and the Grenadines,137,39,63,77,105
+1971,Bahrain,76,150,77,78,37
+1971,Thailand,77,140,79,79,44
+1971,Albania,70,101,77,80,83
+1971,Dominica,104,35,89,81,81
+1971,St. Lucia,137,70,67,82,100
+1971,Malaysia,100,80,82,83,82
+1971,Isle of Man,107,84,80,84,94
+1971,Sri Lanka,137,92,75,84,93
+1971,Europe & Central Asia (excluding high income),81,93,85,85,84
+1971,Chile,168,36,93,86,55
+1971,Moldova,98,88,83,87,97
+1971,St. Kitts and Nevis,137,93,84,88,86
+1971,Guam,145,68,92,89,96
+1971,Uzbekistan,164,69,96,92,73
+1971,Belize,29,111,99,93,110
+1971,Costa Rica,131,105,82,94,108
+1971,Virgin Islands (U.S.),74,161,95,95,74
+1971,French Polynesia,113,163,94,97,80
+1971,Turkmenistan,161,122,97,98,89
+1971,Upper middle income,24,154,104,99,112
+1971,Tunisia,153,50,103,101,107
+1971,China,99,55,105,102,115
+1971,Latin America & Caribbean (excluding high income),13,152,121,103,114
+1971,Latin America & the Caribbean (IDA & IBRD countries),13,157,120,104,111
+1971,Small states,3,114,148,105,170
+1971,Colombia,152,62,106,106,116
+1971,Latin America & Caribbean,14,148,126,108,123
+1971,Solomon Islands,3,132,173,109,152
+1971,United Arab Emirates,21,175,100,110,106
+1971,"Korea, Dem. People's Rep.",26,144,117,111,119
+1971,New Caledonia,133,159,102,113,117
+1971,Fiji,81,145,111,114,113
+1971,Kyrgyz Republic,26,151,124,115,122
+1971,Panama,111,118,109,116,161
+1971,World,74,158,112,117,120
+1971,Tuvalu,85,166,108,118,139
+1971,Eswatini,10,130,152,119,177
+1971,Late-demographic dividend,26,147,128,120,140
+1971,Zimbabwe,74,156,113,121,127
+1971,Philippines,167,33,122,121,118
+1971,Low & middle income,17,125,151,122,180
+1971,Lesotho,19,141,163,123,164
+1971,Libya,17,139,169,124,169
+1971,Paraguay,115,144,116,124,119
+1971,Ecuador,143,14,141,125,173
+1971,Turks and Caicos Islands,161,162,110,125,124
+1971,Kiribati,56,146,129,126,134
+1971,Mexico,121,99,123,127,153
+1971,Jordan,61,173,119,128,137
+1971,"Micronesia, Fed. Sts.",128,153,118,129,125
+1971,Marshall Islands,89,148,126,130,123
+1971,Gabon,141,149,125,131,121
+1971,Zambia,74,112,139,131,147
+1971,Kazakhstan,55,170,131,132,128
+1971,Kenya,56,114,147,133,170
+1971,Vanuatu,165,160,115,133,136
+1971,Middle East & North Africa (excluding high income),95,112,138,134,146
+1971,Dominican Republic,104,112,136,135,144
+1971,Central African Republic,35,132,172,136,158
+1971,Cameroon,35,141,161,136,163
+1971,Mauritius,127,119,132,136,132
+1971,IBRD only,117,112,135,137,143
+1971,Brazil,49,167,142,138,129
+1971,Botswana,39,125,151,138,180
+1971,India,79,106,163,139,126
+1971,East Asia & Pacific (IDA & IBRD countries),148,148,127,140,123
+1971,Cabo Verde,43,123,150,141,180
+1971,Middle East & North Africa (IDA & IBRD countries),128,115,134,142,145
+1971,Nicaragua,126,52,144,143,179
+1971,Guyana,142,115,133,144,145
+1971,Iraq,125,112,137,144,144
+1971,Bhutan,38,113,179,145,155
+1971,East Asia & Pacific,148,112,135,146,143
+1971,Bolivia,39,143,165,147,166
+1971,Mongolia,71,165,130,148,160
+1971,Indonesia,122,71,145,149,181
+1971,Lower middle income,17,110,191,150,156
+1971,Eritrea,10,110,201,153,156
+1971,Least developed countries: UN classification,13,110,198,154,156
+1971,Ethiopia,10,110,208,155,156
+1971,Low income,17,110,197,155,156
+1971,IDA & IBRD total,117,116,140,156,171
+1971,Saudi Arabia,96,100,176,157,154
+1971,Liberia,19,110,201,158,156
+1971,Azerbaijan,53,172,154,158,138
+1971,Honduras,135,109,143,159,168
+1971,Namibia,67,120,178,160,133
+1971,Nauru,66,129,153,160,178
+1971,Suriname,82,124,149,162,180
+1971,East Asia & Pacific (excluding high income),148,109,146,163,168
+1971,IDA total,73,131,175,163,141
+1971,IDA only,72,141,162,164,163
+1971,Peru,119,43,185,165,151
+1971,Pacific island small states,78,133,170,165,157
+1971,Fragile and conflict affected situations,81,141,163,166,164
+1971,Ghana,86,137,158,167,176
+1971,Middle income,93,136,155,167,174
+1971,Early-demographic dividend,104,127,177,168,142
+1971,Other small states,78,139,168,169,169
+1971,Sao Tome and Principe,80,139,168,170,169
+1971,Uganda,85,139,167,171,169
+1971,Djibouti,104,132,174,172,159
+1971,IDA blend,110,132,172,172,158
+1971,Papua New Guinea,112,132,174,173,159
+1971,Lao PDR,26,110,193,174,156
+1971,El Salvador,120,136,156,174,175
+1971,Bangladesh,68,110,184,175,156
+1971,"Congo, Rep.",134,134,157,175,176
+1971,Mauritania,127,137,158,176,176
+1971,Guinea,146,138,159,177,165
+1971,Guinea-Bissau,146,142,164,178,162
+1971,Guatemala,145,137,158,179,176
+1971,Middle East & North Africa,128,110,181,180,156
+1971,Heavily indebted poor countries (HIPC),142,110,180,181,156
+1971,Sudan,82,110,186,182,156
+1971,Rwanda,30,110,205,183,156
+1971,"Yemen, Rep.",74,110,187,183,156
+1971,Benin,29,110,211,184,156
+1971,Comoros,154,110,182,185,156
+1971,Haiti,142,110,183,185,156
+1971,Cambodia,35,110,211,186,156
+1971,Burundi,43,110,200,187,156
+1971,Burkina Faso,44,110,211,188,156
+1971,Arab World,32,110,218,189,156
+1971,Tanzania,88,110,188,189,156
+1971,Morocco,124,40,209,190,149
+1971,Sub-Saharan Africa,82,110,192,191,156
+1971,Timor-Leste,88,110,190,192,156
+1971,Madagascar,102,110,189,193,156
+1971,Sub-Saharan Africa (IDA & IBRD countries),82,110,195,194,156
+1971,Myanmar,92,110,196,195,156
+1971,Maldives,102,110,194,196,156
+1971,Senegal,80,110,206,197,156
+1971,Sierra Leone,94,110,204,198,156
+1971,Sub-Saharan Africa (excluding high income),82,110,210,198,156
+1971,Equatorial Guinea,109,110,199,199,156
+1971,Malawi,102,110,204,200,156
+1971,Oman,97,110,209,201,156
+1971,Mozambique,92,110,212,202,156
+1971,Mali,89,110,214,203,156
+1971,Nigeria,130,110,199,204,156
+1971,"Gambia, The",139,110,198,205,156
+1971,Pakistan,64,171,202,206,148
+1971,Togo,88,110,217,207,156
+1971,Somalia,140,110,205,207,156
+1971,South Asia,140,110,207,208,156
+1971,Nepal,51,168,216,209,150
+1971,"Congo, Dem. Rep.",154,110,205,210,156
+1971,Niger,130,110,215,211,156
+1971,Pre-demographic dividend,155,110,208,212,156
+1971,South Sudan,157,110,209,213,156
+1971,South Asia (IDA & IBRD),158,110,213,214,156
+1971,Chad,166,110,203,215,156
+1971,Angola,70,110,219,216,156
+1971,Africa Eastern and Southern,70,110,221,217,156
+1971,Africa Western and Central,70,110,222,218,156
+1971,Algeria,57,169,220,219,150
+1971,Afghanistan,70,110,223,219,156

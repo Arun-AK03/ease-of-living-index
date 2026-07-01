@@ -1,0 +1,242 @@
+Year,Country,Economic_Rank,Institutional_Rank,Quality_of_Life_Rank,Ease_of_Living_Rank,Sustainability_Rank
+1985,Iceland,9,1,2,1,34
+1985,Norway,6,2,4,2,3
+1985,Canada,17,52,11,3,1
+1985,Sweden,3,44,13,4,5
+1985,Switzerland,19,48,12,5,2
+1985,Netherlands,50,5,3,6,78
+1985,Australia,22,43,11,7,4
+1985,Belgium,25,28,8,8,12
+1985,United States,21,56,22,9,7
+1985,European Union,11,33,17,10,29
+1985,Kuwait,29,22,18,11,16
+1985,Qatar,15,34,44,12,6
+1985,Finland,2,197,10,13,8
+1985,France,27,30,9,14,77
+1985,Bermuda,23,38,16,15,25
+1985,Post-demographic dividend,130,4,6,16,9
+1985,Puerto Rico,18,64,21,17,15
+1985,OECD members,5,99,24,18,31
+1985,Denmark,4,89,27,19,48
+1985,Japan,10,61,29,20,42
+1985,Spain,100,93,1,21,27
+1985,United Kingdom,32,50,23,22,24
+1985,Latvia,43,19,31,23,37
+1985,Austria,54,32,15,24,41
+1985,Germany,42,73,14,25,53
+1985,Lithuania,46,14,32,26,58
+1985,British Virgin Islands,76,25,20,27,18
+1985,Singapore,40,54,40,28,10
+1985,Euro area,35,99,24,29,31
+1985,Bahrain,52,8,50,30,75
+1985,Slovenia,38,70,36,31,14
+1985,Cuba,37,45,34,32,50
+1985,Italy,62,55,7,33,106
+1985,New Zealand,66,37,19,34,22
+1985,Caribbean small states,16,12,95,35,87
+1985,Europe & Central Asia (excluding high income),12,58,82,36,44
+1985,Belize,23,15,100,37,63
+1985,Estonia,39,72,53,39,45
+1985,Montenegro,58,60,39,39,23
+1985,High income,77,67,25,42,28
+1985,Malta,51,51,41,43,104
+1985,Sint Maarten (Dutch part),44,81,43,44,79
+1985,Kosovo,24,83,69,45,51
+1985,Greece,85,138,5,46,92
+1985,Israel,83,80,31,47,13
+1985,Suriname,7,57,103,48,98
+1985,Gibraltar,81,40,28,49,86
+1985,Romania,86,20,57,50,36
+1985,Channel Islands,148,29,18,51,20
+1985,Ukraine,102,35,30,52,19
+1985,United Arab Emirates,1,184,83,53,147
+1985,Dominica,8,125,80,53,105
+1985,Luxembourg,68,31,49,54,61
+1985,Belarus,93,26,51,55,35
+1985,Croatia,31,98,67,56,56
+1985,Malaysia,60,9,92,57,30
+1985,Barbados,92,68,36,59,26
+1985,Jamaica,14,133,87,60,99
+1985,Poland,70,87,44,61,39
+1985,French Polynesia,26,116,72,62,102
+1985,Europe & Central Asia,35,85,81,62,83
+1985,Cyprus,99,16,47,63,108
+1985,Aruba,91,66,38,64,72
+1985,North America,84,62,52,65,66
+1985,Jordan,95,7,100,66,32
+1985,Ireland,71,115,45,67,43
+1985,Europe & Central Asia (IDA & IBRD countries),35,82,91,67,81
+1985,Panama,55,39,63,68,128
+1985,Grenada,81,13,96,69,62
+1985,Small states,30,119,90,71,76
+1985,Armenia,94,10,97,72,57
+1985,North Macedonia,84,84,60,73,54
+1985,Oman,5,113,110,74,123
+1985,Argentina,101,76,46,75,49
+1985,Georgia,137,86,48,76,11
+1985,Brazil,78,21,99,77,70
+1985,New Caledonia,65,42,89,78,65
+1985,Antigua and Barbuda,103,46,62,79,74
+1985,Costa Rica,150,100,21,80,89
+1985,Kazakhstan,89,49,68,80,101
+1985,"Bahamas, The",87,71,66,81,97
+1985,Brunei Darussalam,115,78,61,82,60
+1985,Portugal,132,182,27,83,38
+1985,Bulgaria,121,123,42,84,52
+1985,East Asia & Pacific (excluding high income),120,17,98,86,69
+1985,Fiji,11,112,125,87,124
+1985,Moldova,108,91,58,88,82
+1985,Hungary,126,136,59,89,17
+1985,Uzbekistan,145,75,55,90,59
+1985,Libya,46,63,105,91,115
+1985,Dominican Republic,8,129,126,92,114
+1985,East Asia & Pacific,120,18,99,93,84
+1985,Serbia,82,131,74,94,73
+1985,Albania,140,11,93,95,91
+1985,Late-demographic dividend,24,113,110,96,123
+1985,Upper middle income,20,128,120,97,125
+1985,Curacao,96,103,70,98,96
+1985,Guam,81,124,79,98,90
+1985,East Asia & Pacific (IDA & IBRD countries),120,42,89,100,65
+1985,Azerbaijan,88,137,77,101,71
+1985,St. Martin (French part),98,101,71,102,100
+1985,Isle of Man,69,47,104,103,110
+1985,St. Lucia,98,69,84,104,107
+1985,St. Vincent and the Grenadines,98,114,74,105,88
+1985,Latin America & the Caribbean (IDA & IBRD countries),43,92,111,106,118
+1985,Sri Lanka,98,106,85,107,67
+1985,Latin America & Caribbean (excluding high income),43,95,113,108,122
+1985,Uruguay,154,139,54,109,33
+1985,Virgin Islands (U.S.),131,126,64,110,95
+1985,Turkmenistan,149,79,65,111,103
+1985,Trinidad and Tobago,129,110,76,112,85
+1985,Latin America & Caribbean,43,96,114,113,143
+1985,"Korea, Dem. People's Rep.",24,120,128,114,121
+1985,Chile,157,108,78,116,68
+1985,China,118,132,94,117,80
+1985,Ecuador,114,118,88,117,111
+1985,Tajikistan,74,105,123,118,119
+1985,Central Europe and the Baltics,148,145,86,119,93
+1985,Thailand,116,181,101,120,46
+1985,Greenland,81,74,127,121,113
+1985,Paraguay,128,53,106,122,131
+1985,Botswana,80,128,118,123,125
+1985,Mauritius,109,97,122,124,117
+1985,Pacific island small states,143,88,112,125,116
+1985,St. Kitts and Nevis,98,128,119,126,125
+1985,Turks and Caicos Islands,149,59,107,127,134
+1985,Mexico,113,104,121,128,129
+1985,Tonga,129,107,109,129,130
+1985,Tunisia,133,109,109,130,132
+1985,Colombia,155,140,102,131,126
+1985,"Micronesia, Fed. Sts.",112,130,115,132,140
+1985,Algeria,136,111,117,133,137
+1985,Other small states,143,134,124,134,120
+1985,Vanuatu,145,127,116,135,138
+1985,Kyrgyz Republic,24,195,144,136,152
+1985,Solomon Islands,30,190,140,137,151
+1985,Eswatini,35,188,139,138,155
+1985,Samoa,61,158,133,140,142
+1985,IBRD only,124,102,130,141,133
+1985,Saudi Arabia,28,201,132,142,127
+1985,Cabo Verde,115,122,131,143,141
+1985,World,131,142,129,145,136
+1985,Seychelles,73,173,135,146,153
+1985,Early-demographic dividend,8,143,170,147,192
+1985,Honduras,77,173,136,147,156
+1985,Lao PDR,24,157,162,148,169
+1985,South Africa,104,135,142,149,144
+1985,Cameroon,16,152,167,150,194
+1985,Djibouti,8,167,189,151,183
+1985,Low & middle income,46,178,156,152,161
+1985,Guyana,77,185,145,152,157
+1985,Fragile and conflict affected situations,11,164,177,153,197
+1985,Philippines,122,141,134,154,163
+1985,Marshall Islands,53,186,151,155,178
+1985,Central African Republic,16,161,193,157,165
+1985,IDA total,13,169,182,157,196
+1985,IDA only,13,169,182,157,196
+1985,Cambodia,16,163,175,158,198
+1985,Guatemala,81,192,148,159,177
+1985,Tuvalu,105,194,138,160,160
+1985,South Asia,119,193,143,161,154
+1985,Zimbabwe,131,189,137,162,171
+1985,IDA & IBRD total,124,185,146,163,159
+1985,Middle East & North Africa,112,183,150,165,150
+1985,Eritrea,35,164,179,166,197
+1985,Bangladesh,36,164,179,167,197
+1985,Sao Tome and Principe,34,168,180,168,195
+1985,Ghana,45,159,173,169,200
+1985,Iraq,63,150,165,170,176
+1985,Least developed countries: UN classification,43,171,184,171,190
+1985,Togo,111,191,149,172,179
+1985,Senegal,33,147,200,173,181
+1985,Lower middle income,46,162,174,174,200
+1985,Sub-Saharan Africa (IDA & IBRD countries),7,147,216,175,181
+1985,Bolivia,80,157,161,176,169
+1985,Sub-Saharan Africa (excluding high income),7,147,220,177,181
+1985,Sub-Saharan Africa,7,147,220,177,181
+1985,Sudan,7,147,225,178,181
+1985,Lesotho,49,144,198,179,187
+1985,Mongolia,152,3,204,180,202
+1985,Lebanon,48,200,157,181,149
+1985,Middle income,110,180,152,182,164
+1985,Papua New Guinea,56,166,190,183,185
+1985,Maldives,68,143,169,184,192
+1985,Middle East & North Africa (IDA & IBRD countries),112,186,151,185,178
+1985,Middle East & North Africa (excluding high income),110,176,155,186,162
+1985,El Salvador,125,187,154,187,148
+1985,Benin,23,147,213,188,181
+1985,Morocco,144,24,183,189,203
+1985,Peru,127,179,153,190,170
+1985,Pakistan,146,6,203,191,201
+1985,Kiribati,90,153,168,192,194
+1985,Arab World,103,150,164,193,176
+1985,India,142,27,185,194,204
+1985,Nauru,139,177,157,195,158
+1985,Indonesia,97,199,158,196,166
+1985,Madagascar,68,170,188,197,182
+1985,Haiti,77,160,172,198,199
+1985,South Asia (IDA & IBRD),72,161,196,199,168
+1985,Zambia,131,156,163,200,172
+1985,Heavily indebted poor countries (HIPC),77,166,191,201,185
+1985,Guinea-Bissau,81,172,186,202,189
+1985,"Yemen, Rep.",131,174,160,203,174
+1985,Bhutan,80,170,187,204,193
+1985,Kenya,90,163,176,204,198
+1985,Liberia,49,147,210,205,181
+1985,Ethiopia,35,147,223,206,181
+1985,Gabon,134,148,166,207,184
+1985,Low income,46,147,215,208,181
+1985,Sierra Leone,44,147,222,209,181
+1985,"Congo, Rep.",147,175,159,210,173
+1985,IDA blend,123,154,171,211,191
+1985,Mali,53,147,218,212,181
+1985,Mauritania,109,161,193,213,165
+1985,Burundi,115,161,194,214,167
+1985,Nigeria,117,161,195,215,168
+1985,Burkina Faso,115,151,197,216,180
+1985,Equatorial Guinea,125,165,192,217,175
+1985,Rwanda,61,147,208,218,181
+1985,Namibia,139,164,178,219,197
+1985,Myanmar,138,169,181,220,196
+1985,Malawi,68,147,211,221,181
+1985,Nicaragua,106,155,206,222,186
+1985,South Sudan,72,147,224,223,181
+1985,"Gambia, The",134,147,205,224,181
+1985,"Congo, Dem. Rep.",153,147,199,225,181
+1985,Nepal,141,23,219,226,205
+1985,Comoros,153,147,201,227,181
+1985,Guinea,81,147,226,228,181
+1985,Tanzania,111,147,207,229,181
+1985,Timor-Leste,111,147,209,230,181
+1985,Uganda,105,147,214,231,181
+1985,Somalia,119,147,216,232,181
+1985,Niger,117,147,221,233,181
+1985,Pre-demographic dividend,130,147,217,234,181
+1985,Chad,148,147,212,235,181
+1985,Mozambique,138,147,227,236,181
+1985,Angola,140,147,228,237,181
+1985,Africa Eastern and Southern,140,147,229,238,181
+1985,Africa Western and Central,140,147,230,239,181
+1985,Afghanistan,140,147,231,240,181

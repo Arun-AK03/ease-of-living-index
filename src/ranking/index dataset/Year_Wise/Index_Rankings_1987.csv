@@ -1,0 +1,243 @@
+Year,Country,Economic_Rank,Institutional_Rank,Quality_of_Life_Rank,Ease_of_Living_Rank,Sustainability_Rank
+1987,Switzerland,1,1,6,1,16
+1987,Sweden,10,2,1,2,29
+1987,Norway,3,3,7,3,40
+1987,Spain,34,5,2,4,32
+1987,Japan,20,6,3,5,53
+1987,Belgium,35,13,8,6,3
+1987,France,28,37,11,7,1
+1987,Finland,7,39,13,8,4
+1987,Netherlands,30,8,4,9,79
+1987,Australia,13,27,10,10,6
+1987,United States,17,32,14,11,5
+1987,Canada,18,89,18,12,2
+1987,Austria,25,23,15,13,7
+1987,Iceland,31,14,5,14,28
+1987,Faroe Islands,15,53,9,15,9
+1987,Euro area,43,53,9,16,9
+1987,Germany,32,47,16,17,21
+1987,European Union,15,115,12,18,15
+1987,New Zealand,11,33,49,19,8
+1987,United Kingdom,22,55,27,20,11
+1987,Qatar,26,49,28,21,18
+1987,Puerto Rico,24,43,24,22,35
+1987,Bermuda,27,42,25,23,33
+1987,Italy,5,44,33,24,75
+1987,Denmark,8,80,27,25,55
+1987,Greece,60,7,53,26,57
+1987,Ireland,46,25,36,27,23
+1987,Gibraltar,70,86,17,28,17
+1987,Latvia,48,11,37,30,76
+1987,OECD members,2,74,62,31,52
+1987,Singapore,51,88,21,31,43
+1987,Estonia,42,22,54,32,19
+1987,Cuba,64,42,25,33,33
+1987,Kuwait,37,66,52,34,10
+1987,High income,52,40,29,35,37
+1987,Lithuania,54,9,39,35,103
+1987,British Virgin Islands,88,28,26,36,30
+1987,Cyprus,63,10,50,37,73
+1987,Post-demographic dividend,124,34,22,38,12
+1987,French Polynesia,29,72,55,39,65
+1987,Bahrain,40,85,44,40,27
+1987,Slovenia,49,68,48,41,24
+1987,Dominican Republic,9,17,100,42,80
+1987,Europe & Central Asia,43,82,42,43,42
+1987,Channel Islands,125,65,19,44,14
+1987,Sint Maarten (Dutch part),58,78,43,45,34
+1987,Israel,85,52,20,46,113
+1987,Ukraine,114,12,34,48,25
+1987,Belize,27,16,101,49,81
+1987,St. Martin (French part),41,94,61,50,50
+1987,Late-demographic dividend,39,15,95,51,83
+1987,Curacao,65,76,57,52,56
+1987,North America,94,38,38,53,74
+1987,Suriname,4,60,103,53,95
+1987,Malta,78,67,41,54,64
+1987,Barbados,100,70,31,55,41
+1987,Europe & Central Asia (IDA & IBRD countries),43,19,99,55,59
+1987,Poland,69,61,46,56,100
+1987,Aruba,102,62,30,56,47
+1987,Dominica,9,131,79,57,89
+1987,Bulgaria,76,71,51,57,67
+1987,Isle of Man,44,21,94,59,101
+1987,Sri Lanka,41,77,83,60,66
+1987,Panama,66,50,63,61,120
+1987,St. Vincent and the Grenadines,41,98,73,62,70
+1987,Kosovo,39,92,85,63,60
+1987,Europe & Central Asia (excluding high income),16,137,87,64,92
+1987,Jamaica,14,155,86,65,85
+1987,Caribbean small states,21,135,90,66,90
+1987,Belarus,100,81,50,67,45
+1987,New Caledonia,36,118,82,68,104
+1987,Montenegro,74,90,66,69,107
+1987,Luxembourg,103,96,52,70,39
+1987,Jordan,87,20,95,71,62
+1987,Chile,112,41,58,72,44
+1987,Saudi Arabia,75,36,104,73,31
+1987,Kazakhstan,99,48,72,74,48
+1987,Tajikistan,81,83,70,75,93
+1987,United Arab Emirates,6,183,80,76,144
+1987,Guam,70,106,75,78,106
+1987,Uzbekistan,142,51,64,79,46
+1987,St. Lucia,41,143,89,80,82
+1987,Moldova,116,84,60,80,51
+1987,Brazil,89,30,93,82,102
+1987,Oman,2,120,125,82,135
+1987,Central Europe and the Baltics,125,87,59,83,58
+1987,Brunei Darussalam,84,101,76,84,110
+1987,Serbia,95,116,71,84,77
+1987,Grenada,70,124,91,85,96
+1987,"Korea, Dem. People's Rep.",39,64,112,86,128
+1987,"Bahamas, The",98,79,84,87,94
+1987,Argentina,145,117,67,88,20
+1987,North Macedonia,96,129,69,89,86
+1987,Small states,47,59,111,89,127
+1987,Libya,53,58,110,90,125
+1987,Upper middle income,19,103,123,91,147
+1987,Fiji,15,127,129,92,123
+1987,Costa Rica,156,112,65,93,26
+1987,Azerbaijan,98,123,81,94,72
+1987,Georgia,152,177,56,95,22
+1987,Croatia,68,162,75,96,130
+1987,Botswana,92,54,105,97,105
+1987,Romania,157,136,55,98,36
+1987,Armenia,101,31,109,99,112
+1987,Hungary,151,198,45,100,38
+1987,East Asia & Pacific,161,24,97,101,63
+1987,St. Kitts and Nevis,41,93,116,102,139
+1987,Antigua and Barbuda,132,130,68,103,68
+1987,Latin America & Caribbean,48,111,119,104,122
+1987,Portugal,130,159,47,105,109
+1987,East Asia & Pacific (IDA & IBRD countries),161,18,102,106,88
+1987,Malaysia,104,149,92,107,54
+1987,Latin America & the Caribbean (IDA & IBRD countries),48,107,118,109,138
+1987,Trinidad and Tobago,138,97,77,110,108
+1987,Latin America & Caribbean (excluding high income),48,100,122,111,145
+1987,Samoa,86,63,113,112,131
+1987,Turkmenistan,150,122,81,113,87
+1987,Turks and Caicos Islands,150,60,103,114,95
+1987,China,133,109,96,115,84
+1987,Uruguay,147,199,40,116,129
+1987,Virgin Islands (U.S.),144,57,107,117,99
+1987,Albania,128,137,88,118,97
+1987,Seychelles,91,99,121,119,119
+1987,Paraguay,118,59,111,120,127
+1987,Greenland,70,113,131,121,117
+1987,Thailand,131,104,108,122,111
+1987,Cabo Verde,84,127,129,122,123
+1987,East Asia & Pacific (excluding high income),161,135,90,123,90
+1987,Honduras,52,154,133,124,121
+1987,Pacific island small states,120,95,120,125,118
+1987,Mexico,110,141,127,126,98
+1987,Philippines,129,75,116,127,141
+1987,"Micronesia, Fed. Sts.",107,107,118,128,138
+1987,Colombia,159,128,98,129,116
+1987,Middle East & North Africa,107,126,130,130,114
+1987,Mauritius,106,121,126,131,136
+1987,South Africa,139,110,118,131,133
+1987,Ecuador,162,119,102,132,124
+1987,Tonga,138,105,117,133,142
+1987,Other small states,120,125,124,134,140
+1987,Tunisia,141,132,114,135,137
+1987,Algeria,119,114,128,136,149
+1987,Early-demographic dividend,9,171,156,137,153
+1987,Kyrgyz Republic,39,186,139,138,171
+1987,Guyana,52,186,140,140,171
+1987,Solomon Islands,47,196,142,141,161
+1987,Vanuatu,142,194,132,143,115
+1987,Guatemala,70,189,148,145,159
+1987,Eswatini,43,197,151,145,183
+1987,World,144,139,134,145,134
+1987,IDA total,23,147,167,147,179
+1987,Tuvalu,117,156,135,149,146
+1987,Low & middle income,53,191,157,150,158
+1987,IBRD only,137,156,136,151,146
+1987,Cambodia,21,157,176,152,205
+1987,Fragile and conflict affected situations,15,165,180,153,204
+1987,Cameroon,21,165,179,154,203
+1987,Middle East & North Africa (excluding high income),115,178,137,154,155
+1987,Central African Republic,21,168,190,155,188
+1987,Indonesia,123,138,138,156,182
+1987,Djibouti,9,144,200,157,187
+1987,Lesotho,61,181,163,158,164
+1987,IDA only,23,168,191,159,185
+1987,Peru,111,161,141,160,186
+1987,Marshall Islands,77,190,153,161,184
+1987,Middle East & North Africa (IDA & IBRD countries),107,195,145,162,154
+1987,Benin,27,175,186,162,192
+1987,IDA & IBRD total,137,192,143,163,151
+1987,Sao Tome and Principe,73,151,166,164,180
+1987,Togo,121,188,149,165,166
+1987,Mongolia,160,4,201,166,207
+1987,Bangladesh,38,164,194,167,177
+1987,Ghana,33,144,202,168,187
+1987,Maldives,103,187,158,169,150
+1987,Middle income,115,193,150,170,176
+1987,Lebanon,57,204,155,171,143
+1987,Lao PDR,39,144,199,172,187
+1987,Ethiopia,43,173,185,173,194
+1987,Sub-Saharan Africa (excluding high income),4,144,217,174,187
+1987,Gabon,126,202,146,175,173
+1987,Lower middle income,56,160,177,176,206
+1987,Heavily indebted poor countries (HIPC),52,164,195,177,178
+1987,Haiti,52,169,183,178,201
+1987,Kiribati,97,182,162,179,160
+1987,Sudan,4,144,223,179,187
+1987,Zimbabwe,144,200,152,180,167
+1987,Sub-Saharan Africa,4,144,226,181,187
+1987,Sub-Saharan Africa (IDA & IBRD countries),4,144,226,181,187
+1987,Guinea-Bissau,71,165,178,182,203
+1987,Guinea,71,165,181,183,204
+1987,Iraq,108,180,161,184,157
+1987,Senegal,72,169,182,184,200
+1987,Bolivia,92,142,173,185,196
+1987,Papua New Guinea,67,144,201,186,187
+1987,Arab World,132,184,159,187,165
+1987,El Salvador,153,179,154,187,169
+1987,South Asia (IDA & IBRD),83,158,197,188,170
+1987,Nicaragua,146,29,181,189,208
+1987,Kenya,97,142,174,190,196
+1987,Nauru,140,185,160,191,163
+1987,Mauritania,106,181,164,192,175
+1987,Burkina Faso,84,174,184,193,193
+1987,Eritrea,43,144,210,194,187
+1987,IDA blend,135,146,169,195,181
+1987,Bhutan,90,176,188,196,195
+1987,Least developed countries: UN classification,48,144,213,196,187
+1987,Morocco,105,201,172,197,168
+1987,"Congo, Rep.",154,153,165,198,172
+1987,Low income,56,144,215,199,187
+1987,Liberia,62,144,211,200,187
+1987,Pakistan,113,133,192,201,191
+1987,Sierra Leone,59,144,221,202,187
+1987,"Yemen, Rep.",144,152,171,203,199
+1987,Zambia,144,150,175,204,198
+1987,Equatorial Guinea,153,148,170,205,202
+1987,Nigeria,122,163,196,206,174
+1987,India,134,167,187,207,189
+1987,Namibia,140,160,177,208,206
+1987,Chad,125,145,198,209,190
+1987,Mali,77,144,220,210,187
+1987,South Asia,127,172,189,211,197
+1987,Rwanda,86,144,212,212,187
+1987,Myanmar,109,144,204,213,187
+1987,Burundi,84,144,218,214,187
+1987,Nepal,148,26,208,215,209
+1987,"Gambia, The",126,144,203,215,187
+1987,South Sudan,83,144,222,216,187
+1987,Comoros,158,166,193,217,177
+1987,Madagascar,103,144,207,218,187
+1987,Uganda,117,144,206,219,187
+1987,Tanzania,121,144,205,220,187
+1987,Malawi,103,144,219,221,187
+1987,Timor-Leste,121,144,209,222,187
+1987,Afghanistan,128,144,214,223,187
+1987,Mozambique,109,144,221,224,187
+1987,Somalia,127,144,216,225,187
+1987,Pre-demographic dividend,124,144,218,226,187
+1987,Niger,122,144,224,227,187
+1987,Africa Eastern and Southern,128,144,225,228,187
+1987,"Congo, Dem. Rep.",158,144,210,229,187
+1987,Angola,128,144,227,230,187
+1987,Africa Western and Central,128,144,228,231,187
