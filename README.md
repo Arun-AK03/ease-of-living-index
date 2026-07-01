@@ -17,7 +17,7 @@ methodology behind the paper:
 > Transitional Artificial Intelligence Research Group, School of Mathematics and
 > Statistics, UNSW Sydney, and the Centre for Artificial Intelligence and
 > Innovation, Pingla Institute.
-> [arXiv:2502.06866](https://arxiv.org/abs/2502.06866)
+> [arXiv:2502.06866]([https://arxiv.org/abs/2502.06866])
 
 ## Why this exists
 
